@@ -1,0 +1,1 @@
+import{_ as t}from"./CknKv9ZK.js";import{k as s,e as n,i as a,w as c,c as r,S as _}from"./D3QoYt5o.js";const l={},m={class:"max-w-prose 2-xl:max-w-6xl px-5 py-10 mx-auto bg-indigo-500"};function d(e,f){const o=t;return r(),n("div",m,[a(o,null,{default:c(()=>[_(e.$slots,"default")]),_:3})])}const u=s(l,[["render",d]]);export{u as default};
